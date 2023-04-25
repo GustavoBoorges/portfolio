@@ -1,8 +1,5 @@
-```
-
-# Portfólio 
-
-Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio
+Olá, Bem vindo ao meu primeiro projeto de portfólio.
 
 ## Ferramentas utilizadas:
 
@@ -17,5 +14,3 @@ Olá, Bem vindo ao meu projeto de portfólio.
 ### Gustavo Borges
 
 ### Linkedin: https://www.linkedin.com/in/gustavo-borges-34876b180/
-
-```
